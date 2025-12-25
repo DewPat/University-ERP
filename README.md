@@ -1,0 +1,1 @@
+Developed University ERP system to manage and automate core academic and administrative processes. The system includes key modules such as Student Management, Course Registration, Instructor-based Student Grading, and an Admin Panel for adding, updating, and managing system data.
